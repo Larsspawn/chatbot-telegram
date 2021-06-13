@@ -1,0 +1,496 @@
+{
+  "fileName": "Desain Layout Web.pdf",
+  "dateCreated": "2019/08/21",
+  "wordCount": 2374,
+  "stopWords": 887,
+  "keyCount": 1487,
+  "percent": [
+    {
+      "web": 0.25,
+      "content": 80,
+      "total": 0.30379959650302624
+    },
+    {
+      "layout": 0.25,
+      "content": 34,
+      "total": 0.27286482851378613
+    },
+    {
+      "desain": 0.25,
+      "content": 4,
+      "total": 0.2526899798251513
+    },
+    {
+      "gambar": 0,
+      "content": 59,
+      "total": 0.03967720242098184
+    },
+    {
+      "halaman": 0,
+      "content": 50,
+      "total": 0.03362474781439139
+    },
+    {
+      "frame": 0,
+      "content": 46,
+      "total": 0.03093476798924008
+    },
+    {
+      "storyboard": 0,
+      "content": 32,
+      "total": 0.02151983860121049
+    },
+    {
+      "layer": 0,
+      "content": 26,
+      "total": 0.017484868863483525
+    },
+    {
+      "pembuatan": 0,
+      "content": 17,
+      "total": 0.011432414256893073
+    },
+    {
+      "navigasi": 0,
+      "content": 15,
+      "total": 0.010087424344317418
+    },
+    {
+      "panel": 0,
+      "content": 15,
+      "total": 0.010087424344317418
+    },
+    {
+      "tampilan": 0,
+      "content": 14,
+      "total": 0.00941492938802959
+    },
+    {
+      "struktur": 0,
+      "content": 14,
+      "total": 0.00941492938802959
+    },
+    {
+      "nama": 0,
+      "content": 13,
+      "total": 0.008742434431741762
+    },
+    {
+      "2": 0,
+      "content": 12,
+      "total": 0.008069939475453935
+    },
+    {
+      "page": 0,
+      "content": 12,
+      "total": 0.008069939475453935
+    },
+    {
+      "folder": 0,
+      "content": 12,
+      "total": 0.008069939475453935
+    },
+    {
+      "1": 0,
+      "content": 11,
+      "total": 0.007397444519166106
+    },
+    {
+      "pengunjung": 0,
+      "content": 11,
+      "total": 0.007397444519166106
+    },
+    {
+      "utama": 0,
+      "content": 11,
+      "total": 0.007397444519166106
+    },
+    {
+      "file": 0,
+      "content": 11,
+      "total": 0.007397444519166106
+    },
+    {
+      "site": 0,
+      "content": 11,
+      "total": 0.007397444519166106
+    },
+    {
+      "table": 0,
+      "content": 10,
+      "total": 0.006724949562878279
+    },
+    {
+      "praktikum": 0,
+      "content": 10,
+      "total": 0.006724949562878279
+    },
+    {
+      "menu": 0,
+      "content": 9,
+      "total": 0.00605245460659045
+    },
+    {
+      "contoh": 0,
+      "content": 9,
+      "total": 0.00605245460659045
+    },
+    {
+      "hasil": 0,
+      "content": 9,
+      "total": 0.00605245460659045
+    },
+    {
+      "frameset": 0,
+      "content": 9,
+      "total": 0.00605245460659045
+    },
+    {
+      "isi": 0,
+      "content": 8,
+      "total": 0.005379959650302623
+    },
+    {
+      "a": 0,
+      "content": 8,
+      "total": 0.005379959650302623
+    },
+    {
+      "menampilkan": 0,
+      "content": 8,
+      "total": 0.005379959650302623
+    },
+    {
+      "lakukan": 0,
+      "content": 8,
+      "total": 0.005379959650302623
+    },
+    {
+      "link": 0,
+      "content": 8,
+      "total": 0.005379959650302623
+    },
+    {
+      "sesuai": 0,
+      "content": 8,
+      "total": 0.005379959650302623
+    },
+    {
+      "3": 0,
+      "content": 7,
+      "total": 0.004707464694014795
+    },
+    {
+      "4": 0,
+      "content": 7,
+      "total": 0.004707464694014795
+    },
+    {
+      "metode": 0,
+      "content": 7,
+      "total": 0.004707464694014795
+    },
+    {
+      "informasi": 0,
+      "content": 7,
+      "total": 0.004707464694014795
+    },
+    {
+      "langkah": 0,
+      "content": 7,
+      "total": 0.004707464694014795
+    },
+    {
+      "properties": 0,
+      "content": 7,
+      "total": 0.004707464694014795
+    },
+    {
+      "tentukan": 0,
+      "content": 6,
+      "total": 0.004034969737726967
+    },
+    {
+      "contact": 0,
+      "content": 6,
+      "total": 0.004034969737726967
+    },
+    {
+      "the": 0,
+      "content": 6,
+      "total": 0.004034969737726967
+    },
+    {
+      "dreamweaver": 0,
+      "content": 6,
+      "total": 0.004034969737726967
+    },
+    {
+      "profile": 0,
+      "content": 6,
+      "total": 0.004034969737726967
+    },
+    {
+      "menyimpan": 0,
+      "content": 6,
+      "total": 0.004034969737726967
+    },
+    {
+      "mudah": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "tata": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "letak": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "situs": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "mengatur": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "bentuk": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "b": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "html": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "template": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "of": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "konten": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "footer": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "tabel": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "klik": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "frames": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "title": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "bottom": 0,
+      "content": 5,
+      "total": 0.0033624747814391394
+    },
+    {
+      "5": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "7": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "8": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "tujuan": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "aplikasi": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "berdasarkan": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "salah": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "website": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "lembar": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "sketsa/layout": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "gallery": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "pilih": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "you": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "as": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "header": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "logo": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "insert": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "dinamis": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "langkah1": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "kotak": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "menampung": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "right": 0,
+      "content": 4,
+      "total": 0.0026899798251513113
+    },
+    {
+      "9": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "10": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "11": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "13": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "22": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "mahasiswa": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "berkaitan": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "hirarki": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "isi/konten": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "menjelajahi": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "layar": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    },
+    {
+      "percabangan": 0,
+      "content": 3,
+      "total": 0.0020174848688634837
+    }
+  ],
+  "yearInFile": [],
+  "monthInFile": []
+}

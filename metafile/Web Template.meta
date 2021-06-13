@@ -1,0 +1,81 @@
+{
+  "fileName": "Web Template.pdf",
+  "dateCreated": "2019/10/09",
+  "wordCount": 158,
+  "stopWords": 63,
+  "keyCount": 95,
+  "percent": [
+    {
+      "web": 0.3333333333333333,
+      "content": 16,
+      "total": 0.5017543859649123
+    },
+    {
+      "template": 0.3333333333333333,
+      "content": 8,
+      "total": 0.4175438596491228
+    },
+    {
+      "sesuai": 0,
+      "content": 4,
+      "total": 0.042105263157894736
+    },
+    {
+      "thema": 0,
+      "content": 3,
+      "total": 0.031578947368421054
+    },
+    {
+      "mahasiswa": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "situs": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "membantu": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "developer": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "online": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "halaman": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "desain": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "download": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "praktikum": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    },
+    {
+      "learning": 0,
+      "content": 2,
+      "total": 0.021052631578947368
+    }
+  ],
+  "yearInFile": [],
+  "monthInFile": []
+}
