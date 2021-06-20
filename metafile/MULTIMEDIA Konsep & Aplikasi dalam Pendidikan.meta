@@ -1,0 +1,689 @@
+{
+  "fileName": "MULTIMEDIA Konsep & Aplikasi dalam Pendidikan.pdf",
+  "dateCreated": "2015/11/02",
+  "wordCount": 98909,
+  "stopWords": 40265,
+  "keyCount": 58644,
+  "percent": [
+    {
+      "multimedia": 0.2,
+      "content": 1266,
+      "total": 0.2215878862287702
+    },
+    {
+      "pendidikan": 0.2,
+      "content": 314,
+      "total": 0.20535434145010573
+    },
+    {
+      "aplikasi": 0.2,
+      "content": 203,
+      "total": 0.20346156469545051
+    },
+    {
+      "konsep": 0.2,
+      "content": 95,
+      "total": 0.2016199440692995
+    },
+    {
+      "pembelajaran": 0,
+      "content": 1084,
+      "total": 0.018484414432849056
+    },
+    {
+      "peserta": 0,
+      "content": 775,
+      "total": 0.01321533319691699
+    },
+    {
+      "didik": 0,
+      "content": 746,
+      "total": 0.012720823954709774
+    },
+    {
+      "animasi": 0,
+      "content": 687,
+      "total": 0.01171475342746061
+    },
+    {
+      "gambar": 0,
+      "content": 672,
+      "total": 0.011458972784939635
+    },
+    {
+      "komputer": 0,
+      "content": 628,
+      "total": 0.010708682900211446
+    },
+    {
+      "informasi": 0,
+      "content": 533,
+      "total": 0.009088738830911942
+    },
+    {
+      "video": 0,
+      "content": 511,
+      "total": 0.008713593888547849
+    },
+    {
+      "belajar": 0,
+      "content": 491,
+      "total": 0.008372553031853216
+    },
+    {
+      "proses": 0,
+      "content": 454,
+      "total": 0.007741627446968147
+    },
+    {
+      "media": 0,
+      "content": 429,
+      "total": 0.007315326376099857
+    },
+    {
+      "teks": 0,
+      "content": 371,
+      "total": 0.006326307891685424
+    },
+    {
+      "teknologi": 0,
+      "content": 328,
+      "total": 0.005593070049791965
+    },
+    {
+      "audio": 0,
+      "content": 321,
+      "total": 0.005473705749948844
+    },
+    {
+      "pendidik": 0,
+      "content": 298,
+      "total": 0.005081508764750017
+    },
+    {
+      "program": 0,
+      "content": 295,
+      "total": 0.005030352636245823
+    },
+    {
+      "sistem": 0,
+      "content": 266,
+      "total": 0.004535843394038606
+    },
+    {
+      "suara": 0,
+      "content": 262,
+      "total": 0.004467635222699679
+    },
+    {
+      "internet": 0,
+      "content": 261,
+      "total": 0.004450583179864948
+    },
+    {
+      "bentuk": 0,
+      "content": 239,
+      "total": 0.004075438237500853
+    },
+    {
+      "pengguna": 0,
+      "content": 229,
+      "total": 0.0039049178091535366
+    },
+    {
+      "penggunaan": 0,
+      "content": 220,
+      "total": 0.003751449423640952
+    },
+    {
+      "interaktif": 0,
+      "content": 217,
+      "total": 0.0037002932951367574
+    },
+    {
+      "materi": 0,
+      "content": 214,
+      "total": 0.0036491371666325626
+    },
+    {
+      "perangkat": 0,
+      "content": 207,
+      "total": 0.0035297728667894415
+    },
+    {
+      "data": 0,
+      "content": 204,
+      "total": 0.0034786167382852467
+    },
+    {
+      "format": 0,
+      "content": 204,
+      "total": 0.0034786167382852467
+    },
+    {
+      "file": 0,
+      "content": 204,
+      "total": 0.0034786167382852467
+    },
+    {
+      "software": 0,
+      "content": 196,
+      "total": 0.0033422003956073937
+    },
+    {
+      "warna": 0,
+      "content": 186,
+      "total": 0.0031716799672600778
+    },
+    {
+      "digital": 0,
+      "content": 185,
+      "total": 0.0031546279244253463
+    },
+    {
+      "a": 0,
+      "content": 184,
+      "total": 0.0031375758815906144
+    },
+    {
+      "tujuan": 0,
+      "content": 177,
+      "total": 0.0030182115817474933
+    },
+    {
+      "memiliki": 0,
+      "content": 165,
+      "total": 0.002813587067730714
+    },
+    {
+      "grafik": 0,
+      "content": 165,
+      "total": 0.002813587067730714
+    },
+    {
+      "sesuai": 0,
+      "content": 154,
+      "total": 0.0026260145965486667
+    },
+    {
+      "pengembangan": 0,
+      "content": 147,
+      "total": 0.002506650296705545
+    },
+    {
+      "and": 0,
+      "content": 142,
+      "total": 0.0024213900825318874
+    },
+    {
+      "film": 0,
+      "content": 140,
+      "total": 0.002387285996862424
+    },
+    {
+      "mudah": 0,
+      "content": 137,
+      "total": 0.0023361298683582292
+    },
+    {
+      "pengetahuan": 0,
+      "content": 135,
+      "total": 0.0023020257826887663
+    },
+    {
+      "kemampuan": 0,
+      "content": 134,
+      "total": 0.0022849737398540344
+    },
+    {
+      "jenis": 0,
+      "content": 134,
+      "total": 0.0022849737398540344
+    },
+    {
+      "b": 0,
+      "content": 133,
+      "total": 0.002267921697019303
+    },
+    {
+      "menarik": 0,
+      "content": 133,
+      "total": 0.002267921697019303
+    },
+    {
+      "of": 0,
+      "content": 132,
+      "total": 0.0022508696541845715
+    },
+    {
+      "sumber": 0,
+      "content": 130,
+      "total": 0.002216765568515108
+    },
+    {
+      "kegiatan": 0,
+      "content": 126,
+      "total": 0.002148557397176182
+    },
+    {
+      "teknik": 0,
+      "content": 125,
+      "total": 0.00213150535434145
+    },
+    {
+      "hasil": 0,
+      "content": 122,
+      "total": 0.002080349225837255
+    },
+    {
+      "lunak": 0,
+      "content": 121,
+      "total": 0.0020632971830025237
+    },
+    {
+      "frame": 0,
+      "content": 121,
+      "total": 0.0020632971830025237
+    },
+    {
+      "berbasis": 0,
+      "content": 120,
+      "total": 0.0020462451401677922
+    },
+    {
+      "c": 0,
+      "content": 115,
+      "total": 0.001960984925994134
+    },
+    {
+      "ukuran": 0,
+      "content": 113,
+      "total": 0.001926880840324671
+    },
+    {
+      "komunikasi": 0,
+      "content": 112,
+      "total": 0.0019098287974899392
+    },
+    {
+      "objek": 0,
+      "content": 112,
+      "total": 0.0019098287974899392
+    },
+    {
+      "desain": 0,
+      "content": 110,
+      "total": 0.001875724711820476
+    },
+    {
+      "orang": 0,
+      "content": 109,
+      "total": 0.0018586726689857444
+    },
+    {
+      "alat": 0,
+      "content": 109,
+      "total": 0.0018586726689857444
+    },
+    {
+      "the": 0,
+      "content": 109,
+      "total": 0.0018586726689857444
+    },
+    {
+      "salah": 0,
+      "content": 104,
+      "total": 0.0017734124548120865
+    },
+    {
+      "membantu": 0,
+      "content": 103,
+      "total": 0.0017563604119773548
+    },
+    {
+      "menghasilkan": 0,
+      "content": 102,
+      "total": 0.0017393083691426233
+    },
+    {
+      "d": 0,
+      "content": 100,
+      "total": 0.0017052042834731602
+    },
+    {
+      "model": 0,
+      "content": 99,
+      "total": 0.0016881522406384285
+    },
+    {
+      "pembuatan": 0,
+      "content": 98,
+      "total": 0.0016711001978036968
+    },
+    {
+      "karakter": 0,
+      "content": 98,
+      "total": 0.0016711001978036968
+    },
+    {
+      "learning": 0,
+      "content": 97,
+      "total": 0.0016540481549689654
+    },
+    {
+      "kualitas": 0,
+      "content": 97,
+      "total": 0.0016540481549689654
+    },
+    {
+      "manusia": 0,
+      "content": 96,
+      "total": 0.0016369961121342337
+    },
+    {
+      "visual": 0,
+      "content": 96,
+      "total": 0.0016369961121342337
+    },
+    {
+      "berbeda": 0,
+      "content": 94,
+      "total": 0.0016028920264647706
+    },
+    {
+      "gerakan": 0,
+      "content": 94,
+      "total": 0.0016028920264647706
+    },
+    {
+      "2": 0,
+      "content": 90,
+      "total": 0.001534683855125844
+    },
+    {
+      "pesan": 0,
+      "content": 90,
+      "total": 0.001534683855125844
+    },
+    {
+      "perkembangan": 0,
+      "content": 89,
+      "total": 0.0015176318122911124
+    },
+    {
+      "bergerak": 0,
+      "content": 89,
+      "total": 0.0015176318122911124
+    },
+    {
+      "bahasa": 0,
+      "content": 87,
+      "total": 0.0014835277266216492
+    },
+    {
+      "kurikulum": 0,
+      "content": 87,
+      "total": 0.0014835277266216492
+    },
+    {
+      "1": 0,
+      "content": 86,
+      "total": 0.0014664756837869176
+    },
+    {
+      "standar": 0,
+      "content": 85,
+      "total": 0.001449423640952186
+    },
+    {
+      "lingkungan": 0,
+      "content": 85,
+      "total": 0.001449423640952186
+    },
+    {
+      "dunia": 0,
+      "content": 83,
+      "total": 0.001415319555282723
+    },
+    {
+      "meningkatkan": 0,
+      "content": 83,
+      "total": 0.001415319555282723
+    },
+    {
+      "berdasarkan": 0,
+      "content": 83,
+      "total": 0.001415319555282723
+    },
+    {
+      "jaringan": 0,
+      "content": 82,
+      "total": 0.0013982675124479913
+    },
+    {
+      "bahan": 0,
+      "content": 82,
+      "total": 0.0013982675124479913
+    },
+    {
+      "umpan": 0,
+      "content": 82,
+      "total": 0.0013982675124479913
+    },
+    {
+      "menentukan": 0,
+      "content": 80,
+      "total": 0.0013641634267785282
+    },
+    {
+      "keterampilan": 0,
+      "content": 80,
+      "total": 0.0013641634267785282
+    },
+    {
+      "cepat": 0,
+      "content": 80,
+      "total": 0.0013641634267785282
+    }
+  ],
+  "yearInFile": [
+    {
+      "key": "1970",
+      "count": 4
+    },
+    {
+      "key": "1971",
+      "count": 7
+    },
+    {
+      "key": "1973",
+      "count": 5
+    },
+    {
+      "key": "1976",
+      "count": 4
+    },
+    {
+      "key": "1977",
+      "count": 2
+    },
+    {
+      "key": "1978",
+      "count": 4
+    },
+    {
+      "key": "1979",
+      "count": 5
+    },
+    {
+      "key": "1980",
+      "count": 6
+    },
+    {
+      "key": "1981",
+      "count": 3
+    },
+    {
+      "key": "1982",
+      "count": 6
+    },
+    {
+      "key": "1983",
+      "count": 7
+    },
+    {
+      "key": "1984",
+      "count": 8
+    },
+    {
+      "key": "1985",
+      "count": 9
+    },
+    {
+      "key": "1986",
+      "count": 8
+    },
+    {
+      "key": "1987",
+      "count": 18
+    },
+    {
+      "key": "1988",
+      "count": 22
+    },
+    {
+      "key": "1989",
+      "count": 8
+    },
+    {
+      "key": "1990",
+      "count": 24
+    },
+    {
+      "key": "1991",
+      "count": 19
+    },
+    {
+      "key": "1992",
+      "count": 32
+    },
+    {
+      "key": "1993",
+      "count": 31
+    },
+    {
+      "key": "1994",
+      "count": 49
+    },
+    {
+      "key": "1995",
+      "count": 20
+    },
+    {
+      "key": "1996",
+      "count": 24
+    },
+    {
+      "key": "1997",
+      "count": 32
+    },
+    {
+      "key": "1998",
+      "count": 21
+    },
+    {
+      "key": "1999",
+      "count": 18
+    },
+    {
+      "key": "2000",
+      "count": 20
+    },
+    {
+      "key": "2001",
+      "count": 21
+    },
+    {
+      "key": "2002",
+      "count": 22
+    },
+    {
+      "key": "2003",
+      "count": 29
+    },
+    {
+      "key": "2004",
+      "count": 7
+    },
+    {
+      "key": "2005",
+      "count": 15
+    },
+    {
+      "key": "2006",
+      "count": 17
+    },
+    {
+      "key": "2007",
+      "count": 12
+    },
+    {
+      "key": "2008",
+      "count": 15
+    },
+    {
+      "key": "2009",
+      "count": 13
+    },
+    {
+      "key": "2010",
+      "count": 11
+    },
+    {
+      "key": "2011",
+      "count": 5
+    },
+    {
+      "key": "2012",
+      "count": 4
+    }
+  ],
+  "monthInFile": [
+    {
+      "key": "oktober",
+      "count": 1
+    },
+    {
+      "key": "september",
+      "count": 2
+    },
+    {
+      "key": "juli",
+      "count": 1
+    },
+    {
+      "key": "februari",
+      "count": 2
+    },
+    {
+      "key": "november",
+      "count": 4
+    },
+    {
+      "key": "may",
+      "count": 2
+    },
+    {
+      "key": "december",
+      "count": 1
+    },
+    {
+      "key": "april",
+      "count": 3
+    },
+    {
+      "key": "october",
+      "count": 1
+    }
+  ]
+}

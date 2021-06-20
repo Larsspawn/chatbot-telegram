@@ -1,0 +1,21 @@
+{
+  "name": "4311901003",
+  "version": "1.0.0",
+  "description": "Telegram Chatbot Project",
+  "main": "index.js",
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "fuzzy-matching": "^0.4.3",
+    "node-rake": "^1.0.1",
+    "nodemon": "^2.0.7",
+    "pdf-parse": "^1.1.1",
+    "telegraf": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sultan Ilyas Arsalillah Yuswan Syah",
+  "license": "ISC"
+}
