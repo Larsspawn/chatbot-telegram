@@ -82,12 +82,6 @@ bot.on("text", (ctx) => {
 
 // Start Testing
 
-
-
-
-
-
-
 let inputText = "Dimana terjadinya perang diponegoro?"
 qd.DetectQuestion(inputText);
 
