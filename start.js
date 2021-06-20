@@ -10,7 +10,7 @@ const fs = require('fs');
 const sk = require('./lib/search-keyword');
 const qd = require('./lib/query-detector');
 const generateMeta = require('./generate-meta');
-const fuzzyMatching = require('fuzzy-matching');
+
 
 var i,j;
 
@@ -84,28 +84,54 @@ bot.on("text", (ctx) => {
 
 
 
-var fm = new fuzzyMatching(['apa', 'siapa', 'dimana', 'kapan', 'kenapa', 'berapa', 'bagaimana']);
+
+
+
+
+let inputText = "Dimana terjadinya perang diponegoro?"
+qd.DetectQuestion(inputText);
+
+inputText = "Bagaimana kondisi perang diponegoro?"
+qd.DetectQuestion(inputText);
+
+inputText = "Ap penyebab terjadinya perang diponegoro?"
+qd.DetectQuestion(inputText);
+
+inputText = "Berapa biaya kuliah untuk UKT 7?"
+qd.DetectQuestion(inputText);
+
+
+
+
+
+// if (result !== 0)
+//     console.log("\n[JAWABAN]\n" + result);
+
+
+
+
+// var fm = new fuzzyMatching(['apa', 'siapa', 'dimana', 'kapan', 'kenapa', 'berapa', 'bagaimana']);
  
-// Finds words
-console.log(fm.get('ap')); // --> { distance: 1, value: 'tough' }
+// // Finds words
+// console.log(fm.get('ap')); // --> { distance: 1, value: 'tough' }
  
-// Finds words that are spelled wrong by looking at the closest ressembling word
-console.log(fm.get('apa')); // --> { distance: 0.7142857142857143, value: 'thought' }
-// Beware when words in your dictionary are very close
-console.log(fm.get('sapa')); // --> { distance: 0.875, value: 'through' },
-                                 // though you may have wanted to get 'thought'
+// // Finds words that are spelled wrong by looking at the closest ressembling word
+// console.log(fm.get('apa')); // --> { distance: 0.7142857142857143, value: 'thought' }
+// // Beware when words in your dictionary are very close
+// console.log(fm.get('sapa')); // --> { distance: 0.875, value: 'through' },
+//                                  // though you may have wanted to get 'thought'
  
-// Case insensitive
-console.log(fm.get('dmn').value); // --> through
+// // Case insensitive
+// console.log(fm.get('dmn').value); // --> through
  
-// Accent-proof
-console.log(fm.get('kpn').value); // --> Café
+// // Accent-proof
+// console.log(fm.get('kpn').value); // --> Café
  
-// Add words after creation
-console.log(fm.get('gimana')); // --> { distance: 0, value: null }
-                                // because too remote to anything in the dictionary
-fm.add('what');
-console.log(fm.get('wht')); // --> { distance: 1, value: 'dinosaur' }
+// // Add words after creation
+// console.log(fm.get('gimana')); // --> { distance: 0, value: null }
+//                                 // because too remote to anything in the dictionary
+// fm.add('what');
+// console.log(fm.get('wht')); // --> { distance: 1, value: 'dinosaur' }
 
 
 
